@@ -1,0 +1,6 @@
+{
+  "name": "RuneCode v1.0 Studio",
+  "description": "Universal Visual Identifier standard and architecture for OneManOS, OneVault, MyAI, and BookChain based on Trunic geometric runes, UUIDv7, CRC-32C, Base32, and Ed25519 verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
